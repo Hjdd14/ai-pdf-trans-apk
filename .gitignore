@@ -1,0 +1,32 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+android/.kotlin/
+
+# Keep pubspec.lock for reproducible builds
+!pubspec.lock
+
+# Personal scripts
+rebuild.bat
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+# Misc
+*.jks
+*.keystore
+
+# OS files
+Thumbs.db
+.DS_Store

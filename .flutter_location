@@ -1,0 +1,7 @@
+Flutter SDK: C:\Users\PC\flutter\flutter
+Flutter version: 3.38.4
+JDK 17: C:\Users\PC\flutter\jdk17\jdk-17.0.12+7
+Build command (正常增量构建):
+  cd D:\Code_Work\My_Projects\AI_PDF_Trans_apk
+  "C:\Users\PC\flutter\flutter\bin\flutter.bat" build apk --release
+注意：不要先运行 flutter clean，否则会删除缓存并需要重新下载依赖
