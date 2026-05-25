@@ -1,7 +1,9 @@
 # AI PDF Trans Mobile
+本项目由 AI 辅助编程。
 
 AI PDF Trans 的移动端客户端（APK）。通过本地 WiFi 连接到桌面端服务器，投递 PDF 翻译任务并实时查看进度。
 
+注意：AI翻译排版等不可控，有可能会出现多次翻译效果不同的情况。
 ## 系统要求
 
 - **Flutter SDK** >= 3.4.0
